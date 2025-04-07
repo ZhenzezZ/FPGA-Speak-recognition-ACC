@@ -8,3 +8,6 @@ Our files are organized into 4 main subfolders on the GitHub repository as follo
 * Hardware_Design: Verilog files for accelerator and constraint files
 
 Demo video: https://youtu.be/AowOfI-H4cw
+
+
+Contributor-Sherman Lin, Xinyue Chen, Xinyu Chen, Zhenze Zhao
