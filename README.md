@@ -5,7 +5,7 @@ This project implements a hardware-accelerated keyword speech recognition system
 Design Tree
 
 Our files are organized into 4 main subfolders on the GitHub repository as follows: 
-* doc: PDF of project final report, final demo presentation slides, and demo video
+* doc: PDF of project final report and final demo presentation slides.
 * PC_code: Python files that are run on external PC devices such as the jupyter notebook for model pre-training, script that is responsible for capturing/preprocessing audio input and Ethernet data (model parameters & audio input) transmission, stickman GUI and Bluetooth integration script. 
 * Microblaze: main C code (receiving model parameters/input audio data & inference) that runs on the Microblaze
 * Hardware_Design: Verilog files for accelerator and constraint files
